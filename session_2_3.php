@@ -1,0 +1,15 @@
+<?php
+
+// Interpolation - Difference between single quotes and double quotes in echo
+
+$a = 10;
+$b = 20;
+$c = $a + $b;
+
+//echo "Sum of $a and $b is $c";
+
+echo 'Sum of $a and $b is $c';
+
+
+
+?>
