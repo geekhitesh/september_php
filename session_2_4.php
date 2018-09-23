@@ -2,6 +2,7 @@
 
 //echo "Hitesh"." "."Ahuja";
 
+// string concatanation.
 
 $first_name = "Hitesh";
 $last_name = "ahuja";

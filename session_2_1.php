@@ -32,7 +32,7 @@ $c = $a + $b;
 
 $d = $b - $a;
 
-echo $d;
+echo $d; // print on screen.
 
 
 ?>
