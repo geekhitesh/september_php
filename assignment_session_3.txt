@@ -1,0 +1,155 @@
+1) Sum of Digits
+Write a PHP program to print sum of digits.
+
+Input: 23
+
+Output: 5
+
+Input: 624
+
+Output: 12
+
+2) Even or odd number
+Input: 23
+
+Output: odd number
+
+Input: 12
+
+Output: even number
+
+3) Prime number
+Write a PHP program to check prime number.
+
+Input: 17
+
+Output: not prime number
+
+Input: 57
+
+Output: prime number
+
+4) Table of number
+Write a PHP program to print table of a number.
+
+Input: 2
+
+Output: 2 4 6 8 10 12 14 16 18 20
+
+Input: 5
+
+Output: 5 10 15 20 25 30 35 40 45 50
+
+5) Factorial
+Write a PHP program to print factorial of a number.
+
+Input: 5
+
+Output: 120
+
+Input: 6
+
+Output: 720
+
+6) Armstrong number
+Write a PHP program to check armstrong number.
+
+Input: 371
+
+Output: armstrong
+
+Input: 342
+
+Output: not armstrong
+
+7) Palindrome number
+Write a PHP program to check palindrome number.
+
+Input: 121
+
+Output: not palindrome number
+
+Input: 113
+
+Output: palindrome number
+
+8) Fibonacci Series
+Write a PHP program to print fibonacci series without using recursion and using recursion.
+
+Input: 10
+
+Output: 0 1 1 2 3 5 8 13 21 34
+
+9) Reverse Number
+Write a PHP program to reverse given number.
+
+Input: 234
+
+Output: 432
+
+10) Reverse String
+Write a PHP program to reverse given string.
+
+Input: amit
+
+Output: tima
+
+11) Swap two numbers
+Write a PHP program to swap two numbers with and without using third variable.
+
+Input: a=5 b=10
+
+Output: a=10 b=5
+
+12) Adding Two Numbers
+Write a PHP program to add two numbers.
+
+First Input: 10
+
+Second Input: 20
+
+Output: 30
+
+13) Subtracting Two Numbers
+Write a PHP program to subtract two numbers.
+
+First Input: 50
+
+Second Input: 10
+
+Output: 40
+
+14) Area of Triangle
+Write a PHP program to find area of triangle.
+
+Base Input: 10
+
+Height Input: 15
+
+Output: 75
+
+15) Area of rectangle
+Write a PHP program to find the area of rectangle.
+
+Length Input: 10
+
+Width Input: 20
+
+Output: 200
+
+16) Leap Year
+Write a PHP program to find if the given year is leap year or not.
+
+Input: 2000
+
+Output: Leap Year
+
+Input: 2001
+
+Output: Not Leap Year
+
+
+
+
+
+
