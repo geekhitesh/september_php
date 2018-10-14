@@ -4,7 +4,7 @@
 // print sum of all numbers in array
 
 $numbers = array(); // way to create an array
-
+// $numbers = array(1,2,3,4,5)
 // assign dynamically values to each index of array
 
 for($counter=0; $counter < 100; $counter++)
