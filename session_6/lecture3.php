@@ -5,7 +5,9 @@
 	$password = "";
 	$schema = "september_php";
 
-	// Create connection
+	
+
+	// Step 1 - Create connection
 	$conn = new mysqli($servername, $username, $password,$schema);
 
 	// Check connection
@@ -14,12 +16,17 @@
 		die("Connection Failed");
 	}
 	
+	//step 2 - prepare the query
+	//$sql="update employee_modified set city='itawa' where city='Itanagar'";
+	$sql="select id,name,age,city from employee_modified where city='itawa'";
 	
-	$sql="select id,name,age,city,hobbies from employee_modified";
-	
+	// step 3 - Execute the query
 	$result = $conn->query($sql);
 	
 	var_dump($result);
+	
+	
+	// close the connection
 	
 
 ?>

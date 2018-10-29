@@ -15,11 +15,12 @@
 	}
 	
 	
-	$sql="insert into employee_modified(name,age,city) values('Chonik','29','Itanagar')";
+	$sql="select id,name,age,city from employee_modified";
 	
 	$result = $conn->query($sql);
 	
-	var_dump($result);
-	
+	while($row = $result->fetch_assoc()){
+		print_r($row);
+	}
 
 ?>
